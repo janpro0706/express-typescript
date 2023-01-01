@@ -21,7 +21,7 @@
     "@types/http-errors": "^1.6.2",
     "@types/morgan": "^1.7.37",
     "@types/node": "^12.7.2",
-    "ts-loader": "^6.0.4",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.5.3"
   }
 }
